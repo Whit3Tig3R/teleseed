@@ -229,8 +229,9 @@ function create_config( )
     sudo_users = {157711988},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
-    about_text = [[نرینی داداش؟
-    Id Sudo : @Digitalllboys
+    about_text = [[کس نگو :|
+    Id Sudo : @Neronoob
+    Spanser : @S1KT1R
 ]],
     help_text_realm = [[
 Realm Commands:
@@ -296,7 +297,8 @@ Realm Commands:
 ارسال متنی فقط به یک گروه
 
 
-Sudo : @Digitalllboys
+Sudo : @Neronoob
+Spanser: @S1KT1R
 
 Bye :-)
 ]],
@@ -397,7 +399,8 @@ Unlocks [member|name|bots|leaving]
 !banlist
 دیدن لیست بن شده ها
 
-Sudo : @Digitalllboys
+Sudo : @Neronoob
+Spanser: @S1KT1R
 
 Bye :-)
 
